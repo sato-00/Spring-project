@@ -1,7 +1,14 @@
 //テスト用
 
-
+localhost:8080/hello
 
 http://localhost:8080/plus
 
-http://localhost:8080/multi
+localhost:8080/multi
+
+localhost:8080/fizzBuzz
+
+
+
+
+

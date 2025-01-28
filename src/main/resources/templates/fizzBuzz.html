@@ -8,7 +8,9 @@
 
 <body>
 	<h1>結果</h1>
-	<p th:text="${result}"></p>
+	<ul th:each="result : ${result}">
+		<li th:text="${result}"></li>
+	</ul>
 </body>
 
 </html>
