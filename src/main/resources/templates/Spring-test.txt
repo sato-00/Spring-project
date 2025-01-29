@@ -14,3 +14,5 @@ localhost:8080/signUp
 localhost:8080/minus
 
 localhost:8080/calculator
+
+localhost:8080/calculator
